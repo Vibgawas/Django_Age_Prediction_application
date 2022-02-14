@@ -1,1 +1,0 @@
-web: gunicorn age.wsgi --log-file -

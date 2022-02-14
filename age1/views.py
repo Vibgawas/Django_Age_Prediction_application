@@ -40,5 +40,5 @@ def getage(request):
             'value':age,
             'user_dob':a}
     
-
+    
     return render(request,'base.html',data)
